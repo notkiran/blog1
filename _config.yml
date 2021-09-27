@@ -1,7 +1,7 @@
 remote_theme: oinam/oinam-jekyll
 
-title: Oinam Jekyll
-description: A simple, clean, and minimal Jekyll Theme.
+title: Kiran's Blog
+description: A simple, clean, and minimal Blog.
 
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
@@ -11,7 +11,7 @@ url: https://blog.kirang.me
 # footer
 footer:
   credit: true
-  custom: false
+  custom: true
 
 # if above footer:custom is 'true', then this will be printed instead
 footer_custom: 'An ever Work-in-Progress effort by <a href="https://oinam.com">Oinam</a>.'
